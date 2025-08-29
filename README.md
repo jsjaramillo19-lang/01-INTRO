@@ -1,4 +1,4 @@
-# 🚀 Portafolio de Carlos Felipe Castaño Rodríguez
+# 🚀 Portafolio de Johan Sebastian Jaramillo Herrera
 
 ¡Bienvenido a mi portafolio! Aquí encontrarás algunos de los proyectos y prácticas que he desarrollado como estudiante de Ingeniería de Software. Estoy actualmente cursando el **tercer semestre**, y he adquirido conocimientos fundamentales en **HTML**, **CSS** y **Python**.
 

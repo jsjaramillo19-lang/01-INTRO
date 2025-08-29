@@ -1,0 +1,72 @@
+/* =======================
+   Estilos generales
+======================= */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3fdf5; /* Fondo muy claro con tono verde */
+  color: #2c3e50; /* Texto oscuro para buen contraste */
+  margin: 0;
+  padding: 0;
+}
+
+/* =======================
+   Encabezado principal
+======================= */
+header {
+  background-color: #2ecc71; /* Verde vibrante */
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* =======================
+   Sección de información personal
+======================= */
+.info-personal {
+  padding: 20px;
+  background-color: #eafaf1; /* Verde muy suave para resaltar la sección */
+}
+
+.info-personal h2 {
+  color: #27ae60; /* Verde intermedio */
+}
+
+/* =======================
+   Proyectos
+======================= */
+.proyectos {
+  padding: 20px;
+}
+
+.proyecto {
+  background-color: #ffffff;
+  border-left: 5px solid #2ecc71; /* Borde decorativo verde */
+  margin-bottom: 15px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.proyecto h3 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+/* =======================
+   Pie de página
+======================= */
+footer {
+  background-color: #27ae60;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+footer a {
+  color: #d0f5df; /* Enlace en tono claro */
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
